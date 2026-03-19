@@ -1,26 +1,20 @@
-# 🧮 Calculadora com JavaScript
+# JavaScript Calculator
 
-Calculadora funcional desenvolvida com JavaScript, HTML e CSS.
+## 🚀 Live Demo
+[🔗 Acessar Projeto](https://SEU-USUARIO.github.io/js-project-calculator/)
 
-## 🚀 Demonstração
-🔗 [Acesse o projeto](https://fredjoaquim.github.io/Calculadora-com-JavaScript-1/)
+## 📌 Sobre
+Aplicação de calculadora para prática de lógica e manipulação do DOM.
 
-## 🧠 Funcionalidades
-- Operações básicas de soma, subtração, multiplicação e divisão  
-- Interface simples e responsiva  
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript
 
-## 🛠️ Tecnologias utilizadas
-- HTML5  
-- CSS3  
-- JavaScript  
+## 🎯 Funcionalidades
+- Operações matemáticas básicas
+- Atualização dinâmica
+- Interação via eventos
 
-## 👨‍💻 Autor
-**Fred Joaquim dos Santos**  
-📧 [fredjoaquimprogramador@gmail.com](mailto:fredjoaquimprogramador@gmail.com)  
-🐙 [GitHub](https://github.com/fredjoaquim)  
-💼 [LinkedIn](https://linkedin.com/in/fredjoaquim)
-
----
-
-## 📝 Licença
-Uso livre para fins educacionais.
+## 📷 Preview
+![Preview](./assets/preview.png)
