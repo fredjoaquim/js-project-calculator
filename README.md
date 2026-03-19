@@ -1,7 +1,7 @@
 # JavaScript Calculator
 
 ## 🚀 Live Demo
-[🔗 Acessar Projeto](https://SEU-USUARIO.github.io/js-project-calculator/)
+[🔗 Acessar Projeto](https://fredjoaquim.github.io/js-project-calculator/)
 
 ## 📌 Sobre
 Aplicação de calculadora para prática de lógica e manipulação do DOM.
