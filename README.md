@@ -15,6 +15,3 @@ Aplicação de calculadora para prática de lógica e manipulação do DOM.
 - Operações matemáticas básicas
 - Atualização dinâmica
 - Interação via eventos
-
-## 📷 Preview
-![Preview](./assets/preview.png)
